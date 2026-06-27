@@ -33,6 +33,14 @@ SmartisanOS 开源内核源码合集，包含以下机型的内核：
 
 ## ROM 与内核
 
+### [映像同好会 Smartisan 刷机资源](https://www.cashewteam.top/posts/SmartisanROMS/)
+
+CashewTeam 整理的 Smartisan/坚果手机全系列刷机指南、官方 OTA 包、底包、TWRP、魔趣 ROM、工具和教程汇总。
+
+### [Smartisan T1 刷机教程和资源](https://www.cashewteam.top/posts/SmartisanT1/)
+
+Smartisan T1（3G/4G）详细刷机教程，包含官方降级、解锁 BL、刷入 TWRP、刷入魔趣及刷回原厂的完整流程与资源下载。
+
 ### [锤学研究 (Smartisan ROM 下载)](https://github.com/xingrz/smartisan)
 
 SmartisanOS 官方系统包（OTA 全量包 / 线刷包）下载地址获取工具，支持所有锤子机型的历史版本检索。在线访问：[sm.cashewteam.top](https://sm.cashewteam.top/)（原站点已归档）。HTML/JavaScript 实现，Unlicense 许可。
