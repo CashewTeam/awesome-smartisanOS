@@ -1,0 +1,47 @@
+# Android / Kotlin
+*.iml
+.idea/
+.gradle/
+build/
+local.properties
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.log
+gen/
+out/
+
+# Android NDK
+*.so
+*.o
+*.obj
+*.lib
+*.dll
+
+# Node / npm
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Misc
+*.log
+*.tmp
+.cache/
