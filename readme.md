@@ -31,7 +31,11 @@ SmartisanOS 开源内核源码合集，包含以下机型的内核：
 
 基于 Linux Kernel 3.x，C 语言编写，GPL-2.0 许可。
 
-## 第三方 ROM 与内核
+## ROM 与内核
+
+### [锤学研究 (Smartisan ROM 下载)](https://github.com/xingrz/smartisan)
+
+SmartisanOS 官方系统包（OTA 全量包 / 线刷包）下载地址获取工具，支持所有锤子机型的历史版本检索。在线访问：[sm.cashewteam.top](https://sm.cashewteam.top/)（原站点已归档）。HTML/JavaScript 实现，Unlicense 许可。
 
 ### [Smartisax](https://github.com/intpfx/Smartisax)
 
@@ -136,10 +140,6 @@ SmartisanOS「一步」功能的 Android 开发集成 Demo。展示如何通过 
 Smartisan 风格对话框 Android 库。提供普通对话框、多选项对话框、警告对话框、单选列表、选项列表等丰富样式，完全自定义 UI。Java 实现，Apache-2.0 许可。
 
 ## Web 项目
-
-### [锤学研究](https://github.com/xingrz/smartisan)
-
-关于 Smartisan 的研究资料与内容聚合站点（Jekyll 静态站，已归档）。HTML/JavaScript 实现，Unlicense 许可。
 
 ### [Poker Search](https://github.com/VecHK/poker-search)
 
