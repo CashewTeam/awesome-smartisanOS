@@ -59,6 +59,10 @@ SmartisanOS 「大爆炸」功能的独立 Android 实现。支持剪切板监�
 
 面向现代 macOS（Apple Silicon / Rosetta 2）的 HandShaker 非官方维护版。通过二进制补丁修复了原版在 macOS 15 上连接手机后卡死、内存暴涨的问题，恢复文件管理、图片预览等核心功能。Shell 脚本构建。
 
+### [HandShaker Rust](https://github.com/CashewTeam/HandShaker_Rust)
+
+Smartisan HandShaker 的跨平台 Rust 后端实现。
+
 ### [Smartisan Desktop Apps (Unofficial)](https://github.com/trojanyao/Smartisan-Desktop-Apps-Unofficial)
 
 锤子科技非官方 Mac/Windows 桌面应用合集。基于 Nativefier 打包，包含锤子便签和子弹短信（聊天宝）的桌面版，支持消息推送和 Dock 角标。Nativefier 构建。
@@ -183,6 +187,10 @@ LineageOS 官方为坚果 R1（代号 trident，骁龙 845）提供的设备树�
 ### [Smartisan sdm845 Kernel (Ephemera42)](https://github.com/Ephemera42/android_kernel_smartisan_sdm845)
 
 坚果 R1 的 Android 内核源码（基于 Linux 4.9，Android 8.1 基线），包含骁龙 845 平台驱动。C 实现。
+
+### [Linux 7.1.0-rc1 sdm845 Smartisan R1](https://gitlab.com/tianshi12127/linux7.1.0-rc1_sdm845_smartisan-r1)
+
+Smartisan R1 主线 Linux 内核移植。
 
 ## 开发组件
 
