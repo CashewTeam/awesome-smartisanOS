@@ -27,6 +27,10 @@ SmartisanOS 应用移植计划，提供可直接在非锤子设备上安装运�
 
 逆向复活 SmartisanOS 原生音乐播放器，使用 Kotlin + Media3 + legacy View 壳重写，1:1 还原黑胶唱盘、唱针拖拽、搓碟等经典交互，并新增网易云音乐登录、在线歌单、歌词缓存等能力。Kotlin 实现。
 
+### [new-Smartisan-writingbeta](https://github.com/nwtecdev/new-Smartisan-writingbeta)
+
+基于 Flutter 的锤子写作跨平台重构版本，支持macOS/iOS/iPadOS/Windows/Android，支持连接 WebDAV 服务同步。
+
 ### [Smartisan Launcher Original Port](https://github.com/RANH-F/Smartisan-original-launcher)
 
 基于坚果 Pro 3 原版桌面的移植工程，适配更多 Android 手机。支持 12/20 宫格、主题切换、翻页动画、图标包、页面锁、应用分身、自绘搜索页、在线更新等能力。Smali 实现。
@@ -42,6 +46,7 @@ SmartisanOS 应用移植计划，提供可直接在非锤子设备上安装运�
 ### [SmartisanNote (Unofficial)](https://github.com/johncaijing/SmartisanNote) 已停止维护
 
 非官方的 SmartisanOS 便签 Android 复刻版，使用 Kotlin 语言开发，由知名开发者 drakeet 创作。
+
 
 ### [BigBang（独立实现）](https://github.com/baoyongzhang/BigBang) 已停止维护
 
